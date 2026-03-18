@@ -2,8 +2,6 @@
 
 A lightweight, AI-powered search interface that leverages the **Google Gemini API** to provide comprehensive, easily digestible answers. Built with a strong focus on User Experience (UX) and clean code architecture, this project transforms standard API responses into a rich, interactive web experience.
 
-![Smart Gemini Browser Preview](https://via.placeholder.com/800x400?text=Smart+Gemini+Browser+Preview) *(Note: Add your own screenshot here and replace this link)*
-
 ## ✨ Key Features
 
 * **🤖 AI-Powered Intelligence:** Integrated with the `gemini-1.5-flash-latest` model for fast and accurate text generation.
