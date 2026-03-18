@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     
     // 1. Paste your actual API Key here (Create a new one for safety!)
-    const API_KEY = "AIzaSyBsF4491x1DKe7_3dk-XgPAwxrY8hB_Ih4"; 
+    const API_KEY = ""; 
     
     // Gemini 1.5 Flash Model URL for fast text generation
     const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;

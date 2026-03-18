@@ -4,7 +4,7 @@ A lightweight, AI-powered search interface that leverages the **Google Gemini AP
 
 ## ✨ Key Features
 
-* **🤖 AI-Powered Intelligence:** Integrated with the `gemini-1.5-flash-latest` model for fast and accurate text generation.
+* **🤖 AI-Powered Intelligence:** Integrated with the `gemini-2.5-flash-latest` model for fast and accurate text generation.
 * **🎤 Voice Search Capability:** Utilizes the native Web Speech API, allowing users to search hands-free using voice commands.
 * **📝 Rich Text Rendering:** Implements `marked.js` to parse AI-generated Markdown into clean, readable HTML (Headings, Lists, Links).
 * **🚀 Seamless UX:** Features intuitive **Copy to Clipboard** and **Native Web Share** functionalities for quick information distribution.
