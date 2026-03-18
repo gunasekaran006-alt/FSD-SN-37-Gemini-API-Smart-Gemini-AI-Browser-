@@ -1,0 +1,20 @@
+
+        body { background-color: #f8f9fa; }
+        .browser-window {
+            border: 1px solid #d0d7de; border-radius: 10px;
+            overflow: hidden; background: #ffffff;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .browser-toolbar {
+            background: #f1f3f4; padding: 12px 16px;
+            border-bottom: 1px solid #e1e4e8;
+        }
+        #result {
+            padding: 24px; min-height: 250px;
+            font-size: 1rem; color: #333; line-height: 1.7;
+        }
+        #result a { color: #0a66c2; text-decoration: none; font-weight: 500; }
+        #result a:hover { text-decoration: underline; }
+        #result h1, #result h2, #result h3 { color: #1a1a1a; margin-top: 20px; }
+        #result ul { margin-bottom: 15px; padding-left: 20px; }
+   
